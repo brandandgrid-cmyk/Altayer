@@ -1,0 +1,8 @@
+{
+  "name": "AL TAYER BUILDING MATERIALS TRADING L.L.C.",
+  "description": "Premium building materials trading supplier in Al Alia, Ajman and across all 7 UAE Emirates for residential, commercial, and industrial construction projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
